@@ -42,6 +42,13 @@ const (
 	LTEQ
 	AND
 	OR
+
+	PLUSEQ
+	MINUSEQ
+	TIMESEQ
+	DIVEQ
+	PLUSPLUS
+	MINMIN
 )
 
 // Token represents a token.
